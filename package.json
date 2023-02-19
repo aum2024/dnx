@@ -24,7 +24,8 @@
 		"redis": "*",
 		"socket.io": "^3.1.1",
 		"time-ago": "*",
-		"turtlecoin-multi-hashing": "^0.0.3",
+		"turtlecoin-cryptonote-util": "0.0.8",
+        "turtlecoin-multi-hashing": "0.0.19",
 		"utf-8-validate": "*"
 	},
 	"engines": {
